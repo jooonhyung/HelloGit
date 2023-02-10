@@ -17,8 +17,8 @@ print('고양이는 너무 귀여워요!!!')
 ## Reference  
 [Google](http://www.google.co.kr)  
 ## Issue  
-*빨강
-  -녹색
-    +파랑
+* 빨강
+  - 녹색
+    + 파랑
 
 
