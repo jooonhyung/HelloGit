@@ -15,5 +15,10 @@ print('고양이는 너무 귀여워요!!!')
 ![french-bulldog-ga9b4ef83d_1920](https://user-images.githubusercontent.com/124948836/218047366-8bd00d6a-de9b-4d96-a1d9-54d597881478.jpg)  
 
 ## Reference  
-[Google](http://www.google.co.kr)
+[Google](http://www.google.co.kr)  
+## Issue  
+*빨강
+  -녹색
+    +파랑
+
 
